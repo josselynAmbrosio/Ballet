@@ -1,0 +1,72 @@
+.home {
+  background-image: url(../img/ballet.jpg);
+  height: 797px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text-home {
+	color: white;
+	text-align: center;
+	h2{
+	font-size: 60px;
+	margin-top: 20%;
+	}
+	h3{
+		font-size: 50px;	
+	}
+}
+.text-oferta{
+	margin: 9% 23% 10% 27%;
+	p{
+	
+	}
+	.botom-oferta{
+		text-align: center;
+	}
+	.linea-oferta {
+	  border: 1px solid gray;
+	  width: 12%;
+	  margin: auto;
+	  margin-bottom: 2%;
+	}
+}
+.img-ballet{
+  background-image: url(../img/ballet2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 54%;
+}
+.img-ballet-dos{
+  background-image: url(../img/ballet3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 54%;
+}
+.fondo{
+	padding: 0px;
+}
+.relativa{
+	position: relative;
+}
+.botom-instructor{
+	position: absolute;
+    left: 31%;
+    bottom: 0%;
+    .btn{
+    padding: 32px 161px;
+  	font-size: 23px;
+    }
+}
+.lema h2{
+	text-align: center;
+  margin: 5% 0%;
+}
+.formulario-contacto{
+	margin: 10% 35%;
+}
+.footer{
+	background-color:gray;
+	height: 10%;
+}
