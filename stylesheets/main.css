@@ -5532,12 +5532,21 @@ button.close {
   text-align: center; }
   .text-home h2 {
     font-size: 60px;
-    margin-top: 20%; }
+    margin-top: 20%;
+    font-family: 'Tangerine', cursive; }
   .text-home h3 {
-    font-size: 50px; }
+    font-size: 50px;
+    font-family: 'Tangerine', cursive; }
+  .text-home h4 {
+    font-family: 'Tangerine', cursive; }
 
 .text-oferta {
-  margin: 9% 23% 10% 27%; }
+  padding: 9% 23% 10% 27%;
+  background-color: antiquewhite;
+  text-align: center; }
+  .text-oferta p {
+    font-family: 'Handlee', cursive;
+    font-size: 21px; }
   .text-oferta .botom-oferta {
     text-align: center; }
   .text-oferta .linea-oferta {
@@ -5576,13 +5585,22 @@ button.close {
 
 .lema h2 {
   text-align: center;
-  margin: 5% 0%; }
+  margin: 5% 0%;
+  font-family: 'Tangerine', cursive;
+  font-size: 55px; }
 
 .formulario-contacto {
-  margin: 10% 35%; }
+  margin: 10% 35%;
+  font-family: 'Handlee', cursive; }
+  .formulario-contacto h2 {
+    font-family: 'Tangerine', cursive;
+    font-size: 55px; }
 
 .footer {
   background-color: gray;
   height: 10%; }
+
+.navbar-nav {
+  padding-left: 17%; }
 
 /*# sourceMappingURL=main.css.map */

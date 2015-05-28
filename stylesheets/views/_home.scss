@@ -10,15 +10,23 @@
 	h2{
 	font-size: 60px;
 	margin-top: 20%;
+	font-family: 'Tangerine', cursive;
 	}
 	h3{
-		font-size: 50px;	
+		font-size: 50px;
+		font-family: 'Tangerine', cursive;	
+	}
+	h4{
+		font-family: 'Tangerine', cursive;
 	}
 }
 .text-oferta{
-	margin: 9% 23% 10% 27%;
+	padding: 9% 23% 10% 27%;
+	background-color: antiquewhite;
+  text-align: center;
 	p{
-	
+	font-family: 'Handlee', cursive;
+	font-size: 21px;
 	}
 	.botom-oferta{
 		text-align: center;
@@ -62,11 +70,24 @@
 .lema h2{
 	text-align: center;
   margin: 5% 0%;
+  font-family: 'Tangerine', cursive;	
+font-size: 55px;
+
 }
 .formulario-contacto{
 	margin: 10% 35%;
+	font-family: 'Handlee', cursive;
+
+		h2{
+		font-family: 'Tangerine', cursive;	
+		font-size: 55px;
+		}
 }
 .footer{
 	background-color:gray;
 	height: 10%;
+
+}
+.navbar-nav{
+	padding-left: 17%;
 }
